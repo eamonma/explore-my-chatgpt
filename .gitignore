@@ -1,0 +1,6 @@
+*.json
+*.txt
+reports
+test*
+
+__pycache__
